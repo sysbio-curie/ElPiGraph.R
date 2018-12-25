@@ -57,3 +57,7 @@ Several guides are available to exemplify the behavior of ElPiGraph.R:
 -   [Generation of synthetic data (Currently
     unavailable)](guides/synth.md)
 -   [Plotting (Currently unavailable)](guides/plotting.md)
+
+### Acknowledgements
+
+Supported by the University of Leicester (UK), Institut Curie (FR), the Ministry of Education and Science of the Russian Federation, project № 14.Y26.31.0022, ITMO Cancer SysBio program (MOSAIC project), INCa PLBIO program (Calys project).
